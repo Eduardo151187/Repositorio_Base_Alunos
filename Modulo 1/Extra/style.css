@@ -1,0 +1,13 @@
+.textos h1{
+    font-size: 70px ;
+    color:red;
+}
+
+.textos p{
+    font-size:40px;
+    color:black;
+}
+
+img{
+    width: 70%;
+}
